@@ -42,6 +42,11 @@ body {
     margin-bottom: 400px;
 }
 
+#projects .lead {
+    font-size: 30px;
+    font-weight: 900;
+}
+
 #projects .btn:focus {
     box-shadow: none !important;
 }
@@ -54,6 +59,10 @@ body {
     width: 400px;
     height: 400px;
     object-fit: cover;
+}
+
+#projects .lead {
+    margin-top: 50px;
 }
 
 @media (max-width: 992px) {
